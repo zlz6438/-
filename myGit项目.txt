@@ -1,5 +1,6 @@
 ﻿ 
  hello git ! 
- 修改后再次提交: git add . 
+ 本地修改后再次提交: git add . 
 		git commit -m "注释内容"
 		git push origin master
+远程修改后更新: git pull
