@@ -1,5 +1,13 @@
 ﻿ 
  hello git ! 
+ 
+ 第一次发布项目: (本地 -> 远程)
+ 	git add .
+	git commit -m "注释"
+ 	git push -u origin master
+ 第一次下载项目 (远程 -> 本地)
+ 	git clone ssh
+ 
  本地修改后再次提交: git add . 
 		git commit -m "注释内容"
 		git push origin master
