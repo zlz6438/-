@@ -1,2 +1,5 @@
 ﻿ 
- hello git !
+ hello git ! 
+ 修改后再次提交: git add . 
+		git commit -m "注释内容"
+		git push origin master
